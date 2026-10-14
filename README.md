@@ -1,10 +1,5 @@
 # repane-mcp-file-server
-
-# Workspace MCP
-
 A sandboxed **MCP file-server connector** for AI agents: file operations, git-lite tools, and a handoff protocol (`PROJECT_STATE`, `PLAN_LOG`, `CHECKPOINTS`, `DECISIONS`) so multiple agent sessions can share memory on one project. Served over HTTPS through a tunnel and kept alive by a process manager.
-
-> Midterms Pt 1: Build Your Own (CS 3A / CS 3B Elective, Week 06, Model Context Protocol)
 
 ## Project structure
 
